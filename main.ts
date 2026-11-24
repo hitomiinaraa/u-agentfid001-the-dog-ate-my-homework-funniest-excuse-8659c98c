@@ -8,3 +8,5 @@ const ENTRY =
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", ENTRY, "utf8");
+
+// Revision note: the dog's plain rule-following logic lands harder than any exaggeration.
